@@ -42,11 +42,6 @@ body .main {
   width: 100vw;
   height: 100vh;
   padding: 3rem 3rem;
-  /*
-  background-image: url(assets/sunset-mountain-synthwave-digital-art-hd-wallpaper-uhdpaper.com-612@1@k.jpg);
-  background-size: cover;
-  background-position: center;
-  */
 }
 
 body .center {
@@ -63,8 +58,6 @@ body .photo img {
   border: 0.2rem rgb(0, 0, 0) solid;
   box-shadow: 0 0 10px 3px #00ffea;
   width: 17rem;
-  
-
 }
 
 body .photo img:hover {
@@ -125,7 +118,6 @@ footer {
   }
 }
 
-
 @keyframes pulseAnimation {
   0% {
     background-color: #ffcc00b2;
@@ -143,11 +135,6 @@ footer {
 @media (max-width: 767px) {
   body .main {
     padding: 1rem 2rem;
-    /*
-    background-image: url(assets/sunset-mountain-synthwave-digital-art-phone-wallpaper-hd-uhdpaper.com-612@1@k.jpg);
-    background-size: cover;
-    background-position: center;
-    */
   }
   body .title {
     text-align: center;
